@@ -1,10 +1,10 @@
-// pages/counter.js
+
 "use client"
 
 import { useState } from 'react';
 
 export default function Counter() {
-  // Declare a state variable 'count' and a function 'setCount' to update it
+
  
   const [count, setCount] = useState(0);
     
